@@ -1,5 +1,4 @@
-#  Texas, Climate Division 1 Palmer Drought Severity Index (PDSI)
-Date,Value
+Date,PDSI_Value_Div1
 201001,0.7
 201002,1.57
 201003,2.05
